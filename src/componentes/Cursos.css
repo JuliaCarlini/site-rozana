@@ -1,0 +1,20 @@
+a{
+    font-size: 2rem;
+    text-decoration: none;
+    color: #000;
+}
+
+img{
+    height: 300px;
+    display: block;
+}
+
+div{
+    text-align: center;
+    display: inline-block;
+    margin: 40px;
+    margin-top: 15px;
+}
+#img03{
+    margin: 10px;
+}
