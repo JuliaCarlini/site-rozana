@@ -1,4 +1,3 @@
-import react from "react";
 import './Cursos.css'
 
 import ImgLash from '../utils/lash-lifting.jpg'
